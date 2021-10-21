@@ -1,0 +1,32 @@
+﻿  image.cpp
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(269,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(270,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(271,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(288,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(293,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(294,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(295,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(312,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(604,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(605,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(606,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(607,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(763,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(764,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(765,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(886,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(887,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1242,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1246,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1258,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1261,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1271,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1272,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1273,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1274,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1325,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1326,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1328,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1334,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\proj-imagestartercode\image.cpp(1335,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project2.vcxproj -> D:\Suri\Spring2021\5607\Project2\Proj2-Resources-2\Debug\Project2.exe
