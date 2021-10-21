@@ -78,6 +78,8 @@ Lists of features with syntax:
     
     
 ## Sample Output with Input
-**All sample files used in this section is under ./Proj2-Resources-2/Debug/images folder and results are in ./Proj2-Resources-2/Debug/output foler**
+**A better demonstration is on my original website: https://sites.google.com/umn.edu/haoyutan/home/project-2**
+
+I have reordered the structure of this project. All sample files used in this section is under ./Proj2-Resources-2/Debug/images folder and results are in ./Proj2-Resources-2/Debug/output foler. When running the sample test case below, please add ./images before input
 
 
