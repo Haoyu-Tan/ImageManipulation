@@ -3,7 +3,7 @@
 ## Description
 This is an image manipulation program written in C++. The list of features that it supports will be listed below. For each feature that involves sampling, all point, bilinear, and gaussian sampling are used. 
 
-**Original Project submission website: https://sites.google.com/umn.edu/haoyutan/home/project-2**
+**Original Project submission webpage: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, please still download the code from github, thank :D**
 
 ## How to Run
 1. Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
@@ -80,7 +80,7 @@ Lists of features with syntax:
     
     
 ## Sample Output with Input
-**A better demonstration is on my original website: https://sites.google.com/umn.edu/haoyutan/home/project-2**
+**A better demonstration is on my original submission webpage: https://sites.google.com/umn.edu/haoyutan/home/project-2**
 
 I have reordered the structure of this project. All sample files used in this section is under ./Proj2-Resources-2/Debug/images folder and results are in ./Proj2-Resources-2/Debug/output foler. When running the sample test case below, please add ./images before input
 
