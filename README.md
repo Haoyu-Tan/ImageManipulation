@@ -10,7 +10,7 @@ This is an image manipulation program written in C++. The list of features that 
 
 Lists of features:
 
--noise: add random noise to an image. ~<factor~> should be a number from 0 to 1
+-noise: add random noise to an image. `<factor>` should be a number from 0 to 1
 
     feature syntax: -noise <factor>
 
