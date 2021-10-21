@@ -1,7 +1,6 @@
 .vs/
 .consulo/
 *.csproj
-*.unityproj
 *.sln
 *.suo
 *.tmp
@@ -14,5 +13,3 @@
 *.mdb
 *.opendb
 *.VC.db
-*.vcxproj
-*.vcxproj.filters
