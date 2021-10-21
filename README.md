@@ -10,7 +10,7 @@ This is an image manipulation program written in C++. The list of features that 
 
 Lists of features with syntax:
 
--noise: add random noise to an image. `<factor>` should be a number from 0 to 1
+-noise: add random noise to an image. `<factor>` should be a number from 0 to 1. 0 means no noise and 1 means a lot of noises
 
     -noise <factor>
 
@@ -79,3 +79,5 @@ Lists of features with syntax:
     
 ## Sample Output with Input
 **All sample files used in this section is under ./Proj2-Resources-2/Debug/images folder and results are in ./Proj2-Resources-2/Debug/output foler**
+
+
