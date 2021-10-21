@@ -14,3 +14,5 @@
 *.mdb
 *.opendb
 *.VC.db
+*.vcxproj
+*.vcxproj.filters
