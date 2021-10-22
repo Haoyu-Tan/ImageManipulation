@@ -3,7 +3,7 @@
 ## Description
 This is an image manipulation program written in C++. The list of features that it supports will be listed below. For each feature that involves sampling, all point, bilinear, and gaussian sampling are used. 
 
-**Original Project submission webpage: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, this website is for display only, so please still download the code from github, thanks a lot :D**
+**Original Project submission webpage: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, this website is for reference only, so please still download the code from github, thanks a lot :D**
 
 ## How to Run
 1. Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
