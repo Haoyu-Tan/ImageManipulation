@@ -9,6 +9,8 @@ This is an image manipulation program written in C++. The list of features that 
 1. Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
 
         Project2 -input <filename> -featureName <variable> -output <filename>
+        
+   Also, running Project2 on command line directly will print the valid input command list
 
 Lists of features with syntax:
 
