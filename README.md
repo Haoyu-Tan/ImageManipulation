@@ -6,7 +6,7 @@ This is an image manipulation program written in C++. The list of features that 
 **This is a course project, the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, the submission webpage is for reference only, please still download the code from github, thanks a lot!**
 
 ## How to Run
-1. Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
+Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
 
         Project2 -input <filename> -featureName <variable> -output <filename>
         
