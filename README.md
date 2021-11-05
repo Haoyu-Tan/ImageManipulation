@@ -1,7 +1,7 @@
 # ImageManipulation
 
 ## Description
-This is an image manipulation program written in C++. The list of features that it supports will be listed below. For each feature that involves sampling, all point, bilinear, and gaussian sampling are used. 
+This is an image manipulation program written in C++. The list of features that it supports is be listed below. For each feature that involves sampling, all point, bilinear, and gaussian sampling are implemented and compared. 
 
 **This is a course project, the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, the submission webpage is for reference only, please still download the code from github, thanks a lot!**
 
