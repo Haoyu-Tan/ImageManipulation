@@ -4,12 +4,13 @@ CFLAGS = -Wall -g
 imageManipulate: main.o image.o pixel.o
 	$(CC) $(CFLAGS) -o imageManipulate main.o image.o pixel.o
 
-main.o main.cpp image.h
-	$(CC) $(CFLAGS) - c main.cpp
+main.o: main.cpp image.h
+	$(CC) $(CFLAGS) main.cpp
 
 image.o: pixel.h
 
 pixel.o: pixel.h
+
 
 clean:
 	rm *.o imageManipulate
