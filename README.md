@@ -6,13 +6,18 @@ This is an image manipulation program written in C++. The list of features that 
 **This is a course project, the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, the submission webpage is for reference only, please still download the code from github, thanks a lot!**
 
 ## How to Run
-Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
+
+### There are two ways to run this project:
+
+1. Run the makefile.txt under ./Proj2-Resources-2/Proj-ImageStarterCode folder using **make -f makefile.txt** and then the executale file **./imageManipulate** will be generated. Running this executable file without any argument will print the valid input command list. Sample input to run this project are listed below.
+
+2. Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
 
         Project2 -input <filename> -featureName <variable> -output <filename>
         
    Also, running Project2 on command line directly will print the valid input command list
 
-Lists of features with syntax:
+### Lists of features with syntax:
 
 -noise: add random noise to an image. `<factor>` should be a number from 0 to 1. 0 means no noise and 1 means a lot of noises
 
