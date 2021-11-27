@@ -5,7 +5,7 @@ imageManipulate: main.o image.o pixel.o
 	$(CC) $(CFLAGS) -o imageManipulate main.o image.o pixel.o
 
 main.o: main.cpp image.h
-	$(CC) $(CFLAGS) main.cpp
+	$(CC) $(CFLAGS) -c main.cpp
 
 image.o: pixel.h
 
