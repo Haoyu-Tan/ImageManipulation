@@ -3,13 +3,13 @@
 ## Description
 This is an image manipulation program written in C++. The list of features that it supports is be listed below. For each feature that involves sampling, all point, bilinear, and gaussian sampling are implemented and compared. 
 
-**This is a course project, the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, the submission webpage is for reference only, please still download the code from github, thanks a lot!**
+**This is a course project (Spring 2021 Semester), the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, the submission webpage is for reference only so please still use the code from GitHub. Thanks a lot!**
 
 ## How to Run
 
 ### There are two ways to run this project:
 
-1. Run the makefile.txt under ./Proj2-Resources-2/Proj-ImageStarterCode folder using **make -f makefile.txt** and then the executale file **./imageManipulate** will be generated. Running this executable file without any argument will print the valid input command list. Sample input to run this project are listed below.
+1. Run the Makefile under **./Proj2-Resources-2/Proj-ImageStarterCode** folder using **make all** and then the executale file **./imageManipulate** will be generated. Running this executable file without any argument will print the valid input command list. Sample input to run this project are listed below.
 
 2. Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
 
@@ -148,7 +148,4 @@ I have reordered the structure of this project. All sample files used in this se
 ![766f2cfadd0edd906e0acd0a1044fd3](https://user-images.githubusercontent.com/35856355/138420809-0d1b3cb5-f83b-4835-91a3-6fe9ce4845dc.png)
 
 ![91f9cae266a81375f691d0e673367f3](https://user-images.githubusercontent.com/35856355/138420874-d7029191-b559-4ffd-bcc7-fc88e3e5335d.png)
-
-
-
 
