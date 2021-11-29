@@ -1,7 +1,7 @@
 OBJS = main.o image.o pixel.o
 CC = g++
-CFLAGS = -Wall -g -c
-LFLAGS = -Wall -g
+CFLAGS = -std=c++14 -c
+LFLAGS = -Wall
 
 all: $(OBJS)
 	$(CC) $(LFLAGS) $(OBJS) -o imageManipulate 
