@@ -3,7 +3,7 @@
 ## Description
 This is an image manipulation program written in C++. The list of features that it supports is be listed below. For each feature that involves sampling, all point, bilinear, and gaussian sampling are implemented and compared. 
 
-**This is a course project (Spring 2021 Semester), the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, the submission webpage is for reference only so please still use the code from GitHub. Thanks a lot!**
+**This is a course project (Spring 2021 Semester), and the original submission page is on: https://sites.google.com/umn.edu/haoyutan/home/project-2. However, the submission webpage is for reference only so please still use the code from GitHub. Thanks a lot!**
 
 ## How to Run
 
