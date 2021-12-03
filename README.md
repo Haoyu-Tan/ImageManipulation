@@ -9,9 +9,9 @@ This is an image manipulation program written in C++. The list of features that 
 
 ### There are two ways to run this project:
 
-1. Run the Makefile under **./Proj2-Resources-2/Proj-ImageStarterCode** folder using **make all** on command line and then the executale file **./imageManipulate** will be generated. Running this executable file without any argument will print the valid input command list. Sample input to run this project are listed below.
+1. Run the Makefile in **./Proj2-Resources-2/Proj-ImageStarterCode** folder using **make all** on command line and then the executale file **./imageManipulate** will be generated. Running this executable file without any argument will print the valid input command list. Sample input to run this project are listed below.
 
-2. Run the Project2.exe under ./Proj2-Resources-2/Debug with following syntax on command line:
+2. Run the Project2.exe in ./Proj2-Resources-2/Debug with following syntax on command line:
 
         Project2 -input <filename> -featureName <variable> -output <filename>
         
@@ -89,7 +89,7 @@ This is an image manipulation program written in C++. The list of features that 
 ## Sample Output with Input
 **A better demonstration is on my original submission webpage: https://sites.google.com/umn.edu/haoyutan/home/project-2**
 
-I have reordered the structure of this project. All sample files used in this section is under ./Proj2-Resources-2/Debug/images folder and results are in ./Proj2-Resources-2/Debug/output foler.
+I have reordered the structure of this project. All sample files used in this section is in ./Proj2-Resources-2/Debug/images folder and results are in ./Proj2-Resources-2/Debug/output foler.
 
 ### (1) Noise
 
